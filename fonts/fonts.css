@@ -1,0 +1,15 @@
+@font-face{
+	font-family: 'Geometria-Light';
+	src: url(Geometria-Light.otf);
+	/*font-family: 'Geometria-Light', sans-serif;*/
+	font-family: 'Geometria';
+	src: url(Geometria.otf);
+	/*font-family: 'Geometria', sans-serif;*/
+	
+
+}
+@font-face{
+	font-family: 'JosefinSans';
+	src: url(Forum-Regular.ttf);
+	/*font-family: 'JosefinSans', sans-serif;*/
+}
